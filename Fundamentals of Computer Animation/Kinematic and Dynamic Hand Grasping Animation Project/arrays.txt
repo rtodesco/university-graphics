@@ -1,0 +1,4 @@
+[palmX,palmY,palmZ,thumb1X,thumb1Y,thumb2X,pointer1X,pointer1Y,pointer2X,pointer3X,middle1X,middle1Y,middle2X,middle3X,ring1X,ring1Y,ring2X,ring3X,pinky1X,pinky1Y,pinky2X,pinky3X]
+   0     1     2      3       4       5        6         7         8         9         10      11       12        13     14     15     16     17     18      19      20      21
+   
+double hi[42] = { -0.8,-0.1,0 , 0,0,0 , -0.2,0.2,0 , -0.5,0.5,0 , 0,0,0 , -0.05,0.3,0, -0.05,0.3,0 , 0,0.5,0 , 0,0,0 , 0,0.4,0 , 0,0.4,0 , 0.5,0.5,0 , 0,0,0 , 0,0.3,0 , 0,0.3,0 , 0.8,0.25,0, 0,0,0 , 0.05,0.25,0 , 0.05,0.25,0}
