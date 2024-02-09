@@ -1,1 +1,1 @@
-# university-graphics
+# Repository for University graphic projects
